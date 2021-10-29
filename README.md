@@ -1,1 +1,1 @@
-# Photon-pixel-coupling-mapping-pixels-to-LEDs-
+# Photon-pixel coupling (mapping pixels to LEDs)
