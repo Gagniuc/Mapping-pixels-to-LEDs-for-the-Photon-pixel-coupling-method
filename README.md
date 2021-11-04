@@ -2,17 +2,17 @@
 
 Please read:
 
-Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:
+<i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:</i>
 https://www.sciencedirect.com/science/article/pii/S2215016119300901
 
 and
 
-The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention:
+<i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention:</i>
 https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
 
 and
 
-Maps of electrical activity in diabetic patients and normal individuals:
+<i>Maps of electrical activity in diabetic patients and normal individuals:</i>
 https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
 
@@ -20,3 +20,10 @@ Programming language: Visual Basic 6.0
 
 ![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/Map%20pixels%20to%20LEDs%20(1).PNG)
 ![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/Map%20pixels%20to%20LEDs%20(2).PNG)
+
+# References
+▪	<i>Gagniuc, P.A., Ionescu-Tirgoviste, C., Gagniuc, E.. Photon-pixel coupling: a method for parallel acquisition of electrical signals for scientific investigations. Methods X, 6(2019) 968-979.</i>
+
+▪	<i>Constantin IONESCU-TIRGOVISTE*, Paul A. GAGNIUC*, Elvira Gagniuc. The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention. Biosensors and Bioelectronics, 120 (2018) 188–194. </i>
+
+▪	<i>Ionescu-Tirgoviste, C., Gagniuc, P.A., Gagniuc, E.. Maps of electrical activity in diabetic patients and normal individuals.  Data Brief. 2018, 21: 795–832.</i>
