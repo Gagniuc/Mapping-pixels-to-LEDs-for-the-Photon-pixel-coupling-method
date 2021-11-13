@@ -2,14 +2,11 @@
 
 Please read:
 
-1) <i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:</i>
-https://www.sciencedirect.com/science/article/pii/S2215016119300901
+1) <i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:</i> https://www.sciencedirect.com/science/article/pii/S2215016119300901
 
-2) <i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention:</i>
-https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
+2) <i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention:</i> https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
 
-3) <i>Maps of electrical activity in diabetic patients and normal individuals:</i>
-https://www.sciencedirect.com/science/article/pii/S2352340918312204
+3) <i>Maps of electrical activity in diabetic patients and normal individuals:</i> https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
 
 Programming language: Visual Basic 6.0
