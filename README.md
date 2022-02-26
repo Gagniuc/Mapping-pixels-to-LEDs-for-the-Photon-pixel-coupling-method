@@ -1,13 +1,16 @@
 # Photon-pixel coupling (mapping pixels to LEDs)
 
+A webcam films an array of LEDs as seen in the image below. In each frame these LEDs represent the output of different sensors and may have a variable brightness. Thus, these brightness must be converted to numerical values for analysis. Initially, the positions of the LEDs on the matrix relative to the position of the camcorder must be known.
+
+This software allows you to set the position of each LED over an image. The coordinates of each LED position is recorded as a string inside an array variable.
+
 Please read:
 
-1) <i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:</i> https://www.sciencedirect.com/science/article/pii/S2215016119300901
+1) <i>[Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations](https://www.sciencedirect.com/science/article/pii/S2215016119300901)</i>
 
-2) <i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention:</i> https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
+2) <i>[The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals](https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663)</i> 
 
-3) <i>Maps of electrical activity in diabetic patients and normal individuals:</i> https://www.sciencedirect.com/science/article/pii/S2352340918312204
-
+3) <i>[Maps of electrical activity in diabetic patients and normal individuals](https://www.sciencedirect.com/science/article/pii/S2352340918312204)</i>
 
 Programming language: Visual Basic 6.0
 
