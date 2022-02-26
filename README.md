@@ -1,8 +1,8 @@
 # Photon-pixel coupling (mapping pixels to LEDs)
 
-A webcam films an array of LEDs as seen in the image below. In each frame these LEDs represent the output of different sensors and may have a variable brightness. Thus, these brightness must be converted to numerical values for analysis. Initially, the positions of the LEDs on the matrix relative to the position of the camcorder must be known.
+A webcam films an array of LEDs as seen in the image below. In each frame these LEDs represent the output of different sensors and may have a variable brightness. Thus, this brightness must be converted to numerical values for analysis. 
 
-This software allows you to set the position of each LED over an image. The coordinates of each LED position is recorded as a string inside an array variable.
+The positions of the LEDs are relative to the position of the camcorder. This software allows you to set the position of each LED over an image. The coordinates of each LED position is recorded as a string inside an array variable. The array variable is printed as source code in a textbox object. Next, the content of the textbox object is copied inside the source of the Vesta software (please look at the source code in the Vesta software).
 
 Please read:
 
