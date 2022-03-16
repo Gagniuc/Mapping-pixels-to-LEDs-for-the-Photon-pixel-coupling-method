@@ -10,8 +10,8 @@ A [webcam](https://github.com/Gagniuc/WebCam-software-sampling) films an array o
 
 Programming language: Visual Basic 6.0
 
-![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/Map%20pixels%20to%20LEDs%20(1).PNG)
-![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/Map%20pixels%20to%20LEDs%20(2).PNG)
+![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/img/Map%20pixels%20to%20LEDs%20(1).png?raw=true)
+![screenshot](https://github.com/Gagniuc/Mapping-pixels-to-LEDs-for-the-Photon-pixel-coupling-method/blob/main/img/Map%20pixels%20to%20LEDs%20(2).png?raw=true)
 
 # References
 
